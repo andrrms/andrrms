@@ -15,7 +15,7 @@ Meu nome é André, tenho 19 anos atualmente e almejo me tornar um desenvolvedor
 - Front-end: React.js e suas tecnologias
 - Back-end: Express.js e suas tecnologias, assim como Python e Bancos de Dados
 
-## 📫 Como entro em contato?
+## 📫 Como entrar em contato comigo?
 
 - [LinkedIn](https://www.linkedin.com/in/andrrms/)
 - [Email](mailto:pro.andresilveira@gmail.com)
