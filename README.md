@@ -6,17 +6,18 @@ Meu nome é André, tenho 20 anos atualmente e almejo me tornar um desenvolvedor
 
 - HTML 5: Estrutura, semântica e acessibilidade
 - CSS 3: Responsividade, posicionamento, adaptabilidade e experiência de usuário
-- JavaScript: Sintaxe, boas práticas, manipulação de DOM, NodeJS
+- JavaScript: Sintaxe, boas práticas, manipulação de DOM
 - GitHub: Criação e manutenção de repos, trabalho em equipe, commits convencionais
 - TypeScript: Superset de JavaScript que ajuda a eliminar erros e escrever melhor
+- NodeJS: Aplicações back-end usando express e TypeORM
+- Banco de dados: Linguagens SQL, gerenciadores ORM e PostgreSQL
+- Python: Django e Django Rest Framework
 
+<!--
 ## 🌱 Atualmente estou aprendendo
 
-- NodeJS: Back-end, express, TypeORM
-- Banco de dados: SQL, ORM, PostgreSQL
 - Hospedagem: Implantação de serviços, AWS
-- Python e suas tecnologias
-- Django
+- -->
 
 ## 📫 Como entrar em contato comigo?
 
