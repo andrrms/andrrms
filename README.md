@@ -1,6 +1,6 @@
 # E aí 👋
 
-Meu nome é André, tenho 20 anos atualmente e almejo me tornar um desenvolvedor Web full-stack; sempre motivado a aprender. Atualmente estou estudando na Kenzie Academy Brasil, cursando o quinto módulo.
+Meu nome é André, tenho 20 anos atualmente e almejo trabalhar com desenvolvimento web full stack; sempre motivado a aprender. Atualmente estou estudando na Kenzie Academy Brasil, cursando o sexto e último módulo. Estou buscando um emprego! Quem sabe eu dou um match com a sua vaga? 😉
 
 ## 💬 Vamos falar sobre
 
