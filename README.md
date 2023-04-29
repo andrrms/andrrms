@@ -1,6 +1,6 @@
 # E aí 👋
 
-Meu nome é André, tenho 20 anos atualmente e almejo trabalhar com desenvolvimento web full stack; sempre motivado a aprender. Atualmente estou estudando na Kenzie Academy Brasil, cursando o sexto e último módulo. Estou buscando um emprego! Quem sabe eu dou um match com a sua vaga? 😉
+Meu nome é André, tenho 20 anos e atualmente sou um desenvolvedor full-stack, trabalhando com as stacks em NodeJS e suas tecnologias, assim como PHP e suas tecnologias. Bora trocar um papo??
 
 ## 💬 Vamos falar sobre
 
@@ -13,11 +13,10 @@ Meu nome é André, tenho 20 anos atualmente e almejo trabalhar com desenvolvime
 - Banco de dados: Linguagens SQL, gerenciadores ORM e PostgreSQL
 - Python: Django e Django Rest Framework
 
-<!--
 ## 🌱 Atualmente estou aprendendo
 
 - Hospedagem: Implantação de serviços, AWS
-- -->
+- PHP: Laravel
 
 ## 📫 Como entrar em contato comigo?
 
