@@ -1,6 +1,6 @@
 # E aí 👋
 
-Meu nome é André, tenho 20 anos e atualmente sou um desenvolvedor full-stack, trabalhando com as stacks em NodeJS e suas tecnologias, assim como PHP e suas tecnologias. Bora trocar um papo??
+Meu nome é André, tenho 21 anos e sou um desenvolvedor full-stack, trabalhando atualmente com PHP e suas tecnologias.
 
 ## 💬 Vamos falar sobre
 
@@ -11,12 +11,13 @@ Meu nome é André, tenho 20 anos e atualmente sou um desenvolvedor full-stack, 
 - TypeScript: Superset de JavaScript que ajuda a eliminar erros e escrever melhor
 - NodeJS: Aplicações back-end usando express e TypeORM
 - Banco de dados: Linguagens SQL, gerenciadores ORM e PostgreSQL
-- Python: Django e Django Rest Framework
+- PHP: Serviços full-stack e criação de APIs
 
+<!--
 ## 🌱 Atualmente estou aprendendo
 
 - Hospedagem: Implantação de serviços, AWS
-- PHP: Laravel
+-->
 
 ## 📫 Como entrar em contato comigo?
 
