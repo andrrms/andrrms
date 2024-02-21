@@ -7,17 +7,11 @@ Meu nome é André, tenho 21 anos e sou um desenvolvedor full-stack, trabalhando
 - HTML 5: Estrutura, semântica e acessibilidade
 - CSS 3: Responsividade, posicionamento, adaptabilidade e experiência de usuário
 - JavaScript: Sintaxe, boas práticas, manipulação de DOM
-- GitHub: Criação e manutenção de repos, trabalho em equipe, commits convencionais
+- Git: Criação e manutenção de repos, trabalho em equipe, commits convencionais
 - TypeScript: Superset de JavaScript que ajuda a eliminar erros e escrever melhor
 - NodeJS: Aplicações back-end usando express e TypeORM
-- Banco de dados: Linguagens SQL, gerenciadores ORM e PostgreSQL
+- Banco de dados: Linguagens SQL, gerenciadores ORM, PostgreSQL, MySQL e Redis
 - PHP: Serviços full-stack e criação de APIs
-
-<!--
-## 🌱 Atualmente estou aprendendo
-
-- Hospedagem: Implantação de serviços, AWS
--->
 
 ## 📫 Como entrar em contato comigo?
 
