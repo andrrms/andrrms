@@ -1,34 +1,17 @@
 # E aí 👋
 
-Meu nome é André, tenho 21 anos e sou um desenvolvedor full-stack, trabalhando atualmente com PHP e suas tecnologias.
+Meu nome é André, tenho 23 anos e sou Desenvolvedor de Software Pleno na Catálise Investimentos. Sou um especialista full-stack com mais de 2 anos de experiência, e tenho uma paixão especial pelo front-end. Meu foco é construir interfaces que sejam acessíveis, performáticas e intuitivas, unindo engenharia e design.
 
-## 💬 Vamos falar sobre
+## 🚀 Tecnologias e Ferramentas
 
-- HTML 5: Estrutura, semântica e acessibilidade
-- CSS 3: Responsividade, posicionamento, adaptabilidade e experiência de usuário
-- JavaScript: Sintaxe, boas práticas, manipulação de DOM
-- Git: Criação e manutenção de repos, trabalho em equipe, commits convencionais
-- TypeScript: Superset de JavaScript que ajuda a eliminar erros e escrever melhor
-- NodeJS: Aplicações back-end usando express e TypeORM
-- Banco de dados: Linguagens SQL, gerenciadores ORM, PostgreSQL, MySQL e Redis
-- PHP: Serviços full-stack e criação de APIs
+Minha stack principal gira em torno do ecossistema JavaScript/TypeScript, mas também possuo sólida experiência em PHP.
+
+* **Front-End:** Nuxt.js, Vue.js, React, Next.js, TypeScript, JavaScript (ES6+), HTML5 (Semântica, Acessibilidade), CSS3 (Responsividade, UX), TailwindCSS
+* **Back-End:** Node.js (Express, Prisma), PHP, PostgreSQL, MySQL, Redis, SQL, Websocket
+* **Ferramentas & DevOps:** Git (Commits Convencionais), Docker, CI/CD, Padrões de Testes, Semver
 
 ## 📫 Como entrar em contato comigo?
 
 - [LinkedIn](https://www.linkedin.com/in/andrrms/)
 - [Email](mailto:pro.andresilveira@gmail.com)
-
-<!--
-**andrrms/andrrms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Portfolio](https://www.asilveira.com.br/)
